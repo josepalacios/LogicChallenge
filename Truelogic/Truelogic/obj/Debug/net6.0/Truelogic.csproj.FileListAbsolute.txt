@@ -1,0 +1,14 @@
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\bin\Debug\net6.0\Truelogic.exe
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\bin\Debug\net6.0\Truelogic.deps.json
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\bin\Debug\net6.0\Truelogic.runtimeconfig.json
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\bin\Debug\net6.0\Truelogic.dll
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\bin\Debug\net6.0\Truelogic.pdb
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\Truelogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\Truelogic.AssemblyInfoInputs.cache
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\Truelogic.AssemblyInfo.cs
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\Truelogic.csproj.CoreCompileInputs.cache
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\Truelogic.dll
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\refint\Truelogic.dll
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\Truelogic.pdb
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\Truelogic.genruntimeconfig.cache
+C:\Users\Gabs\source\repos\Truelogic\Truelogic\obj\Debug\net6.0\ref\Truelogic.dll
